@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "React Calculator",
+  "short_name": "Calculator",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Calculator by github.com/lucaasrojas"
+}
